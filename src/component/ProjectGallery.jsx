@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import './ProjectGallery.css'; // Make sure to create a CSS file for styling
 import quality from '../assets/images/quality.jpg';
-import q2 from '../assets/images/q2.jpg';
+import q2 from '../assets/images/w2.jpg';
 import s1 from '../assets/images/s1.jpg';
 import w3 from '../assets/images/w3.jpg';
 import w4 from '../assets/images/w4.webp';

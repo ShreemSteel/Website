@@ -1,6 +1,6 @@
 import React from 'react';
 import './TestimonialsSection.css'; // Import the CSS file
-import avtar from  '../assets/images/image11.jpg';
+import avtar from  '../assets/images/Image11.jpg';
 import avtar2 from  '../assets/images/image12.jpg';
 import avtar3 from  '../assets/images/iamge13.jpg';
 // Updated component name to TestimonialsSection
