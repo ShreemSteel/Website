@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import  HRCRCoils from '../assets/images/flat.png'
+import  HRCRCoils from '../assets/images/Flat.png'
 import  HRCRSheets from '../assets/images/Finished.png'
 import  ERWPipes from '../assets/images/ERW Pipes.jpeg'
 import MSERWTubesPipes from '../assets/images/H1.png';
