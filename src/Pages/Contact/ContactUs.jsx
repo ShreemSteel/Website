@@ -15,15 +15,15 @@ const ContactUs = () => {
         <div
           className="contact-us-form"
         >
-         <form action="https://api.web3forms.com/submit" method="POST">
+         <form action="https://api.web3forms.com/submit" method="POST"> 
+    <input type="hidden" name="access_key" value="bcd4e75a-e290-4b38-9cf2-30fc85ad80a6" />
 
-   
-<input type="hidden" name="access_key" value="bcd4e75a-e290-4b38-9cf2-30fc85ad80a6" />
-            <input type="text" placeholder="Your Name" required />
-            <input type="email" placeholder="Your Email" required />
-            <textarea placeholder="Your Message" required></textarea>
-            <button type="submit">Submit</button>
-          </form>
+    <input type="text" name="name" placeholder="Your Name" required />
+    <input type="email" name="email" placeholder="Your Email" required />
+    <textarea name="message" placeholder="Your Message" required></textarea>
+
+    <button type="submit">Submit</button>
+</form>
 
         </div>
 
