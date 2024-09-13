@@ -23,12 +23,12 @@ const products = [
       'Cold rolled steel is hot rolled steel further processed in a cold rolling mill.',
     image: HRCRSheets, // Replace with the actual path to the Cement image
   },
-  {
-    name: 'ERW Pipes',
-    description:
-      'ERW (Electric Resistance Welded) Steel Pipes are widely used in various industries due to their strength, durability, and cost-effectiveness.',
-    image: ERWPipes, // Replace with the actual path to the Aerocrete image
-  },
+  // {
+  //   name: 'ERW Pipes',
+  //   description:
+  //     'ERW (Electric Resistance Welded) Steel Pipes are widely used in various industries due to their strength, durability, and cost-effectiveness.',
+  //   image: ERWPipes, // Replace with the actual path to the Aerocrete image
+  // },
   {
     name: 'MS ERW Tubes/Pipes ',
     description: 'Mild Steel Electric Resistance Welded tubes/pipes.',
